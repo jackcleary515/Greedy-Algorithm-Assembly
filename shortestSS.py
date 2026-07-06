@@ -120,7 +120,7 @@ def greedy_algorithm(sequences): # This will utilize the functions we defined pr
         filt_seqs = new_seqs
         scores = new_scores
 
-        return filt_seqs[0]
+    return filt_seqs[0]
 
 
 def main(): # This will be the command used to run the script in terminal
